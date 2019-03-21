@@ -25,4 +25,4 @@ Your app is ready to be deployed!
 
 ## Demo URL
 
-https://ashishks55.github.io/contact-manager-react
+<a href="https://ashishks55.github.io/contact-manager-react" target="_blank">ashishks55.github.io/contact-manager-react</a>
