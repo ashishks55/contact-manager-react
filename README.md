@@ -1,3 +1,7 @@
+## Demo URL
+
+<a href="https://ashishks55.github.io/contact-manager-react" target="_blank">ashishks55.github.io/contact-manager-react</a>
+
 ## Setup
 
 In the project directory, you can run:
@@ -21,8 +25,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
-
-
-## Demo URL
-
-<a href="https://ashishks55.github.io/contact-manager-react" target="_blank">ashishks55.github.io/contact-manager-react</a>
